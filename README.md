@@ -11,7 +11,7 @@
   pip3 install mysql-connector==2.1.4
 
 ```
-** 注意一下：**
+**注意一下:**
 
 - 注意： 默认安装mysql-connector 会失败，失败的原因是这个驱动包默认是测试版本，需要指定2.1.4
 
